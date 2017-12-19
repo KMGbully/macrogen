@@ -18,6 +18,6 @@
 </br><b>Start Apache on TCP port 80</b>
 </br>service apache2 start
 </br>
-</br><b>Monitor the harvester.txt iile for creds</b>
+</br><b>Monitor the harvester.txt file for creds</b>
 </br>tail -f /var/www/html/harvester.txt
 </br>
