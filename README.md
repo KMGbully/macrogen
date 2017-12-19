@@ -1,6 +1,6 @@
 # macrogen
-# Microsoft Excel macro payload obfuscation generator
-# Usage: python macrogen.py [path to base64 encoded powershell payload] [attacker controlled domain name or external IP]
+<b>Microsoft Excel macro payload obfuscation generator<b>
+</br>Usage: python macrogen.py [path to base64 encoded powershell payload] [attacker controlled domain name or external IP]
 </br>
 </br><b>Create the payload in Empire PowerShell</b>
 </br>Remove "powershell.exe -NoP -NonI -W Hidden -Enc" from the payload created by Empire and save to a file.
